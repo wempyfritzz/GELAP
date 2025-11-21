@@ -28,8 +28,7 @@ The game world is a meticulously crafted environment based on real locations, ea
 * **Jalan Raya Krukut:** A major road that serves as a lifeline, but is now fraught with danger.
 * **SMPN 17 Depok (Abandoned):** An old, derelict school rumored to be a source of strange occurrences.
 * **Gardu Induk PLN Gandul:** An imposing industrial structure with a dark secret.
-* **Mor Cafe Cinere:** A once-lively spot, now a silent testament to a world gone wrong.
-* **Jalan Limo Raya:** The long road back, where the journey's true nature is revealed.
+* **Jalan Raya Andara:** The long road back, where the journey's true nature is revealed.
 
 ## Project Status
 
@@ -44,8 +43,9 @@ Instructions on how to download and play a demo will be available here once a st
 ## Development Team
 
 * **Wempy Fritzki Pradesta** - Lead Developer / Programmer
-* **Sulthan Biyan Hasyim** - Co-Programmer
-* **Kevin Kurniawan** - 3D Artist
+* **Febrian Yudha Hermansyah** - Core Gameplay Programmer
+* **Sohbet Rasya Fatir** - AI Engginner
+* **Muhammad Royan** - UI/UX Designer
 
 ## License
 
